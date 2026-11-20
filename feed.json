@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nilslist.com",
+    "description": "",
+    "home_page_url": "https://nilslist.com",
+    "feed_url": "https://nilslist.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nils"
+    },
+    "items": [
+        {
+            "id": "https://nilslist.com/why-this-why-now/",
+            "url": "https://nilslist.com/why-this-why-now/",
+            "title": "Why this, Why now?",
+            "summary": "What is \"nilslist\" and why does it exist?",
+            "content_html": "\n  <p>\n    What is \"nilslist\" and why does it exist?\n  </p>",
+            "author": {
+                "name": "Nils"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-20T22:29:34+01:00",
+            "date_modified": "2026-11-20T22:29:34+01:00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>nilslist.com</title>
+    <link href="https://nilslist.com/feed.xml" rel="self" />
+    <link href="https://nilslist.com" />
+    <updated>2026-11-20T22:29:34+01:00</updated>
+    <author>
+        <name>Nils</name>
+    </author>
+    <id>https://nilslist.com</id>
+
+    <entry>
+        <title>Why this, Why now?</title>
+        <author>
+            <name>Nils</name>
+        </author>
+        <link href="https://nilslist.com/why-this-why-now/"/>
+        <id>https://nilslist.com/why-this-why-now/</id>
+
+        <updated>2026-11-20T22:29:34+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    What is "nilslist" and why does it exist?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    What is "nilslist" and why does it exist?
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
